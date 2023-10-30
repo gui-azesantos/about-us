@@ -1,4 +1,4 @@
-import { VStack } from "@chakra-ui/react";
+
 import styled from "styled-components";
 
 export const CustomVStack = styled.div`
